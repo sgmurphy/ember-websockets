@@ -6,7 +6,6 @@
     "ember-cli-test-loader": "0.2.2",
     "ember-qunit-notifications": "0.1.0",
     "urijs": "uri.js#^1.18.1",
-    "socket.io-client": "^1.4.6",
-    "mock-socket": "^2.0.2"
+    "socket.io-client": "^1.4.6"
   }
 }

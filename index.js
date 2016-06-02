@@ -10,6 +10,8 @@ module.exports = {
   name: 'ember-websockets',
 
   /**
+  * https://github.com/ember-cli/ember-cli/issues/2949#issuecomment-85634073
+  * 
   * The addon tree is augmented with the impagination modules. This
   * makes them available not only to `ember-impagination` as a whole,
   * but also to the application if they want to embed it. It'll look
